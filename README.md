@@ -73,7 +73,7 @@ Feel free to use, modify, and share this project for personal or educational pur
 
 Created by **GSNCREATIONS**
 
-- YouTube: [@GSNcreation07](https://www.youtube.com/@GSNcreation07)
-- Instagram: [@GSNCREATIONS](https://instagram.com/GSNCREATIONS)
+- YouTube: [@pandustechlab](https://www.youtube.com/@pandustechlab)
+- Instagram: [@pandustechlab](https://instagram.com/pandustechlab)
 
 Keep Creating • Keep Learning • Keep Innovating
