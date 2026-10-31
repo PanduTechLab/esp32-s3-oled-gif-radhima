@@ -71,7 +71,7 @@ Feel free to use, modify, and share this project for personal or educational pur
 
 ## 🙌 Credits
 
-Created by **GSNCREATIONS**
+Created by **Pandu'sTechlab**
 
 - YouTube: [@pandustechlab](https://www.youtube.com/@pandustechlab)
 - Instagram: [@pandustechlab](https://instagram.com/pandustechlab)
